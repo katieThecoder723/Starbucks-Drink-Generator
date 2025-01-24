@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starbucks Drink Generator</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="navbar">
+        <h1>
+            Starbucks Drink Generator
+        </h1>
+        <div class="navbar-links">
+            <a href="https://starbucks.com">order your drink now</a>
+            <a href="./about.html">About</a>
+        </div>
+    </div>
+    <div class="main">
+        <div  class="pics-generate">
+            <img src="https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190624_CaramelAppleSpice.jpg?impolicy=1by1_wide_topcrop_630" id="drink_image">
+        </div>
+        <h1 id="drink_name"></h1>
+        <h3 id="drink_category"></h3>
+        <button id="Generate_Drink" onclick="Generate_Drink()">Generate Drink</button>
+        <div class="dropdown">
+            <div class="dropdown-content">
+                <a href="#">Coffee</a>
+                <a href="#">Refreshers</a>
+                <a href="#">Frappuccinos</a>
+                <a href="#">Iced Tea/Lemonade</a>
+                <a href="#">Tea</a>
+                <a href="#">Other</a>
+            </div>
+        </div>
+    
+    </div>
+    <div id="drink">
+        <div id="name">
+
+        </div>
+        <div id="info">
+            
+        </div>
+        <div id="generate_again">
+
+        </div>
+    </div>
+    <script src="script.js"></script>
+    
+    
+    
+</body>
+</html>
