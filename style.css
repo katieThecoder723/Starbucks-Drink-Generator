@@ -78,6 +78,7 @@ button:hover {
     gap: 20px;
     justify-content: center;
     height: 80vh;
+    margin-bottom: 2rem;
 }
 
 p {
