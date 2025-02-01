@@ -79,6 +79,7 @@ button:hover {
     justify-content: center;
     height: 80vh;
     margin-bottom: 2rem;
+    overflow: scroll;
 }
 
 p {
