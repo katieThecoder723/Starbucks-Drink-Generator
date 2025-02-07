@@ -4,10 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Starbucks Drink Generator</title>
-    <link rel="stylesheet" href="./style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <link rel="stylesheet" href="./style.css">
 </head>
 <body>
     <div class="navbar">
@@ -26,16 +27,19 @@
         <h1 id="drink_name"></h1>
         <h3 id="drink_category"></h3>
         <button id="Generate_Drink" onclick="Generate_Drink()">Generate Drink</button>
-        <div class="dropdown">
-            <div class="dropdown-content">
-                <a href="#">Coffee</a>
-                <a href="#">Refreshers</a>
-                <a href="#">Frappuccinos</a>
-                <a href="#">Iced Tea/Lemonade</a>
-                <a href="#">Tea</a>
-                <a href="#">Other</a>
-            </div>
-        </div>
+        <select name="category" aria-label="category" id="Category_Dropdown">
+            <option selected disabled value="">
+                Category
+            </option>
+            <option value="Coffee">Coffee</option>
+            <option value="Tea">Tea</option>
+            <option value="Refreshers">Refreshers</option>
+            <option value="Frappuchino">Frappucino</option>
+            <option value="Hot Chocolate/Other">Hot Chocolate/Other</option>
+            <option value="Bakery">Frappucino</option>
+            <option value="Breakfast">Frappucino</option>
+            <option value="Lunch">Frappucino</option>
+        </select>
         <div id="drink">
             <div id="name">
     
