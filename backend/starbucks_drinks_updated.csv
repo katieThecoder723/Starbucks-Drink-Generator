@@ -1,0 +1,128 @@
+Category,Name,Calories,Sugars (g),Caffeine (mg)
+Coffee,Featured Blonde, 5, 0g, 315mg
+Coffee,Featured Pike Place Medium Roast, 5, 0g, 315mg
+Coffee,Featured Dark Roast, 5 , 0g, 315mg
+Coffee,Decaf Pike Place® Roast, 5, 0g, 25mg
+Coffee,Caffè Misto, 110, 10g, 150mg
+Coffee,Caffè Americano, 15, 0g, 225mg
+Coffee,Caffè Latte, 190, 18g, 150mg
+Coffee,Pistachio Latte, 320, 45g, 150mg
+Coffee,Cinnamon Dolce Latte, 340, 43g, 150mg
+Coffee,Blonde Vanilla Latte, 250, 35g, 170mg
+Coffee,Caramel Brulée Latte, 410, 48g, 150mg
+Coffee,Chestnut Praline Latte, 330, 38g, 150mg
+Coffee,Gingerbread Latte, 310, 33g, 170mg
+Coffee,Sugar Cookie Almondmilk Latte, 180, 27g, 170mg
+Coffee,Cappuccino, 140, 12g, 150mg
+Coffee,Caffè Mocha, 370, 35g, 175mg
+Coffee,White Chocolate Mocha, 390, 46g, 150mg
+Coffee,Peppermint Mocha, 440, 54g, 175mg
+Coffee,Peppermint White Chocholate Mocha, 480, 66g, 150mg
+Coffee,Espresso Macchiato, 15, 0g, 150mg
+Coffee,Caramel Macchiato, 250, 33g, 150mg
+Coffee,Flat White, 170, 13g, 130mg
+Coffee,Honey Almondmilk Flat White, 120, 18g, 150mg
+Coffee,Cortado, 90, 6g, 230mg
+Coffee,Brown Sugar Oatmilk Cortado, 130, 14g, 230mg
+Coffee,Espresso, 10, 0g, 150mg
+Coffee,Espresso Con Panna, 35, 0g, 150mg
+Coffee,Cold  Brew, 5, 0g, 205mg
+Coffee,Chocolate Hazelnut Cookie Cold Brew, 230, 26g, 190mg
+Coffee,Pistachio Cream Cold Brew, 250, 32g, 185mg
+Coffee,Vanilla Sweet Cream Cold Brew, 110, 14g, 185mg
+Coffee,Salted Caramel Cream Cold Brew, 240, 26g, 185mg
+Coffee,Chocolate Cream Cold Brew, 250, 28g, 185mg
+Coffee,Vanilla Sweet Cream Nitro Cold Brew, 70, 4g, 265mg
+Coffee,Iced Coffee, 5, 0g, 185mg
+Coffee,Iced Shaken Espresso, 100, 14g, 225mg
+Coffee,Iced Brown Sugar Oatmilk Shaken Espresso, 150, 15g, 255mg
+Coffee,Iced Hazelnut Oatmilk Shaken Espresso, 150, 16g, 255mg
+Coffee,Iced Espresso, 10, 0g, 150mg
+Coffee,Iced Caffè Americano, 15, 0g, 225mg
+Coffee,Iced Caffè Latte, 130, 11g, 150mg
+Coffee,Iced Pistachio Latte, 260, 40g, 150mg
+Coffee,Iced Starbucks® Blonde Vanilla Latte, 190, 28g, 170mg
+Coffee,Iced Cinnamon Dolce Latte, 300, 35g, 150mg
+Coffee,Iced Caramel Brulée Latte, 400, 44g, 150mg
+Coffee,Iced Chestnut Praline Latte, 320, 34g, 150mg
+Coffee,Iced Gingerbread Latte, 300, 28g, 170mg
+Coffee,Iced Sugar Cookie Almondmilk Latte, 150, 25g, 170mg
+Coffee,Iced Caffè Mocha, 350, 30g, 175mg
+Coffee,Iced White Chocolate Mocha, 390, 42g, 150mg
+Coffee,Iced Peppermint Mocha,420, 49g, 175mg
+Coffee,Iced Peppermint White Chocolate Mocha, 460, 61g, 150mg
+Coffee,Iced Caramel Macchiato, 250, 34g, 150mg
+Coffee,Iced Flat White,110, 8g, 90mg
+Coffee,Iced Honey Almondmilk Flat White, 100, 17g, 150mg
+Tea,Iced Chai Latte, 240, 42g, 95mg
+Tea,Iced Matcha Latte, 190, 25g, 65
+Tea,Iced London Fog Latte, 140, 25g, 40mg
+Tea,Iced Royal English Breakfast Latte, 110, 23g, 40mg
+Tea,Iced Gingerbread Oatmilk Chai, 370, 45g, 95mg
+Tea,Iced Black Tea, 0, 0g, 25mg-30mg
+Tea,Iced Black Tea Lemonade, 50, 11g, 25mg-30mg
+Tea,Iced Green Tea,0, 0g, 25mg-30mg
+Tea,Iced Green Tea Lemonade, 50, 11g, 25mg-30mg
+Tea,Iced Peach Green Tea, 60, 12g, 25mg-30mg
+Tea,Iced Peach Green Tea Lemonade, 80, 18g, 25mg-30mg
+Tea,Iced Passion Tango® Tea, 0, 0g, 0mg
+Tea,Iced Passion Tango® Tea Lemonade, 0, 0g, 0mg
+Tea,Iced Matcha Lemonade,120, 26g, 75mg
+Tea,Chai Latte, 240, 42g, 95mg
+Tea,Matcha Latte, 220, 29g, 65mg
+Tea,London Fog Latte, 180,29g, 40mg
+Tea,Royal English Breakfast Latte, 190, 30g, 40mg
+Tea,Gingerbread Oatmilk Chai, 310, 54g, 100mg
+Tea,Honey Citrus Mint Tea, 130, 30g, 16mg-25mg
+Tea,Royal English Breakfast Tea, 0, 0g, 40mg
+Tea,Emperor's Clouds & Mist® Tea, 0, 0, 16mg-25mg
+Tea,Mint Majesty® Tea, 0, 0g, 0mg
+Tea,Earl Grey Tea, 0, 0g, 40mg
+Tea,Chamomile Mint Blossom Tea, 5, 0g, 25mg
+Tea,Chai Tea, 0, 0g, 40mg
+Refreshers,Strawberry Açaí Lemonade Refresher, 140, 32g, 45mg-55mg
+Refreshers,Blackberry Sage Lemonade Refresher, 150, 32g, 55mg
+Refreshers,Mango Dragonfruit Lemonade Refresher, 140, 31g, 45mg-55mg
+Refreshers,Pink Drink, 140, 25g, 45mg-55mg
+Refreshers,Midnight Drink,140,24g, 55mg
+Refreshers,Dragon Drink®,130,23g,45mg-55mg
+Refreshers,Strawberry Açaí Refresher, 100, 21g, 45mg-55mg
+Refreshers,Blackberry Sage Refresher,100, 20g,55mg
+Refreshers,Mango Dragonfruit Refresher,90, 19g, 45mg-55mg
+Frappuccino,Caramel Ribbon Crunch Frappuccino®, 470, 60g, 85mg
+Frappuccino,Pistachio Frappuccino®,380,55g,90mg
+Frappuccino,Caramel Frappuccino®, 380, 54g, 90mg
+Frappuccino,Mocha Cookie Crumble Frappuccino®, 480, 55g, 95mg
+Frappuccino,Mocha Frappuccino®, 370,51g, 100mg
+Frappuccino,Java Chip Frappuccino®,440,59g, 105mg
+Frappuccino,White Chocolate Mocha Frappuccino®,370, 51g, 80mg
+Frappuccino,Coffee Frappuccino®, 230, 45g,95mg
+Frappuccino,Espresso Frappuccino®, 210,42g, 155mg
+Frappuccino,Caffè Vanilla Frappuccino®, 410,63g, 95mg
+Frappuccino,Caramel Brulée Frappuccino®, 400g, 58g, 90mg
+Frappuccino,
+Frappuccino,
+Frappuccino,
+Frappuccino,
+Frappuccino,
+Frappuccino,
+Frappuccino,
+Frappuccino,
+Frappuccino,
+Frappuccino,
+Frappuccino,
+Frappuccino,
+Frappuccino,
+Frappuccino,
+Frappuccino,
+Frappuccino,
+Frappuccino,
+Frappuccino,
+Frappuccino,
+
+Treats,Valentine Cake Pop, 160, 16g, N/A
+Treats,Birthday Cake Pop, 160, 16g, N/A
+Treats,Chocolate Cake Pop, 150, 16g,  N/A
+Treats,Cookies & Cream Cake Pop, 140, 15g, N/A
+Treats,Chocolate Chip Cookie, 370, 31g, N/A
+Treats,Double Chocolate Brownie, 480, 37g, N/A
