@@ -75,7 +75,7 @@ Tea,Royal English Breakfast Latte, 190, 30g, 40mg
 Tea,Gingerbread Oatmilk Chai, 310, 54g, 100mg
 Tea,Honey Citrus Mint Tea, 130, 30g, 16mg-25mg
 Tea,Royal English Breakfast Tea, 0, 0g, 40mg
-Tea,Emperor's Clouds & Mist® Tea, 0, 0, 16mg-25mg
+Tea,Emperor's Clouds & Mist® Tea, 0, 0g, 16mg-25mg
 Tea,Mint Majesty® Tea, 0, 0g, 0mg
 Tea,Earl Grey Tea, 0, 0g, 40mg
 Tea,Chamomile Mint Blossom Tea, 5, 0g, 25mg
@@ -100,29 +100,81 @@ Frappuccino,Coffee Frappuccino®, 230, 45g,95mg
 Frappuccino,Espresso Frappuccino®, 210,42g, 155mg
 Frappuccino,Caffè Vanilla Frappuccino®, 410,63g, 95mg
 Frappuccino,Caramel Brulée Frappuccino®, 400g, 58g, 90mg
-Frappuccino,
-Frappuccino,
-Frappuccino,
-Frappuccino,
-Frappuccino,
-Frappuccino,
-Frappuccino,
-Frappuccino,
-Frappuccino,
-Frappuccino,
-Frappuccino,
-Frappuccino,
-Frappuccino,
-Frappuccino,
-Frappuccino,
-Frappuccino,
-Frappuccino,
-Frappuccino,
-Frappuccino,
-
-Treats,Valentine Cake Pop, 160, 16g, N/A
-Treats,Birthday Cake Pop, 160, 16g, N/A
-Treats,Chocolate Cake Pop, 150, 16g,  N/A
-Treats,Cookies & Cream Cake Pop, 140, 15g, N/A
-Treats,Chocolate Chip Cookie, 370, 31g, N/A
-Treats,Double Chocolate Brownie, 480, 37g, N/A
+Frappuccino,Chestnut Praline Frappuccino®,380, 56g, 95mg
+Frappuccino,Peppermint Mocha Frappuccino®, 430, 63g, 110mg
+Frappuccino,Peppermint White Chocolate Mocha Frappuccino®,440, 67g, 95mg
+Frappuccino,Sugar Cookie Almondmilk Frappuccino®, 370,58g, 105mg 
+Frappuccino,Vanilla Bean Crème Frappuccino®, 380, 52g
+Frappuccino,Strawberry Crème Frappuccino®, 370, 51g
+Frappuccino,Pistachio Crème Frappuccino®, 360, 45g
+Frappuccino,Matcha Crème Frappuccino®, 320, 45g, 65mg
+Frappuccino,Caramel Ribbon Crunch Crème Frappuccino®, 420, 46
+Frappuccino,Chocolate Cookie Crumble Crème Frappuccino®, 460, 46g, 15mg
+Frappuccino,Double Chocolaty Chip Crème Frappuccino®, 410, 47g, 15mg
+Frappuccino,Chai Crème Frappuccino®, 340, 45g, 40mg
+Frappuccino,White Chocolate Crème Frappuccino®, 350,43g,
+Frappuccino,Caramel Brulée Crème Frappuccino®, 380, 49g,
+Frappuccino,Chestnut Praline Crème Frappuccino®, 340, 43g,
+Frappuccino,Peppermint Mocha Crème Frappuccino®, 390, 50g, 10mg
+Frappuccino,Peppermint White Chocolate Crème Frappuccino®, 400, 54g, 2mg
+Frappuccino,Sugar Cookie Almondmilk Crème Frappuccino®, 310, 43g, 0mg
+Hot Chocolate/Other,Hot Chocolate, 370, 37g, 25mg
+Hot Chocolate/Other,White Hot Chocolate,400, 48g, 0mg
+Hot Chocolate/Other,Peppermint Hot Chocolate,440, 56g, 25mg
+Hot Chocolate/Other,Peppermint White Hot Chocolate,480, 67g, 2mg
+Hot Chocolate/Other,Lemonade,120, 27g, 0mg
+Hot Chocolate/Other,Blended Strawberry Lemonade, 190, 45g, 0mg
+Hot Chocolate/Other,Vanilla Crème,350, 43g, 0mg
+Hot Chocolate/Other,Pistachio Crème, 330, 47g, 0 mg
+Hot Chocolate/Other,Caramel Brulée Crème, 420, 50g, 0mg
+Hot Chocolate/Other,Chestnut Praline Crème, 350, 41g, 0mg
+Hot Chocolate/Other,Steamed Apple Juice, 220, 50g, 0mg
+Hot Chocolate/Other,Caramel Apple Spice, 380, 70g, 0mg
+Bakery,Vanilla Bean Custard Danish, 230, 12g
+Bakery,Turkey Sage Danish, 270, 5g
+Bakery,Baked Apple Croissant, 230, 11g
+Bakery,Ham & Swiss Croissant, 320,5g
+Bakery,Butter Croissant, 250, 4g
+Bakery,Chocolate Croissant,300, 11g
+Bakery,Cheese Danish,290,11g
+Bakery,Sugar Plum Cheese Danish, 330, 16g
+Bakery,Banana, Walnut & Pecan Loaf, 380, 26g
+Bakery,Iced Lemon Loaf, 410, 36g
+Bakery,Pumpkin & Pepita Loaf, 360, 31g
+Bakery,Cinnamon Coffee Cake, 380, 35g
+Bakery,Dark Toffee Bundt, 330, 29g
+Bakery,Blueberry Streusel Muffin, 370, 27g
+Bakery,Petite Vanilla Bean Scone, 130, 9g
+Bakery,Blueberry Scone, 410, 22g
+Bakery,Glazed Doughnut, 440, 34g
+Bakery,Plain Bagel, 250, 5g
+Bakery,Everything Bagel, 270, 5g
+Breakfast,Egg Pesto & Mozzarella Sandwich, 390, 1g
+Breakfast,Bacon Gouda & Egg Sandwich, 360, 2g
+Breakfast,Double-Smoked Bacon Cheddar & Egg Sandwich, 500, 8g
+Breakfast,Sausage Cheddar & Egg Sandwich, 480, 2g
+Breakfast,Turkey Bacon Cheddar & Egg White Sandwich, 230, 2g
+Breakfast,Impossible™ Breakfast Sandwich, 420, 4g
+Breakfast,Bacon, Sausage & Egg Wrap, 640, 2g
+Breakfast,Spinach, Feta & Egg White Wrap, 290, 5g
+Breakfast,Bacon & Gruyère Egg Bites, 300, 2g
+Breakfast,Egg White & Roasted Red Pepper Egg Bites, 170, 3g
+Breakfast,Kale & Mushroom Egg Bites, 230, 1g
+Breakfast,Potato Cheddar & Chive Bakes, 210, 2g
+Breakfast,Rolled & Steel-Cut Oatmeal, 160, 0g
+Breakfast,Berry Trio Parfait, 240, 25g
+Lunch,Crispy Grilled Cheese on Sourdough, 520, 1g
+Lunch,Ham & Swiss on Baguette, 500, 1g
+Lunch,Turkey Provolone & Pesto on Ciabatta,520, 3g
+Lunch,Tomato & Mozzarella on Focaccia,360 2g
+Lunch,Spicy Falafel Pocket, 230, 4g
+Lunch,Eggs & Gouda Protein Box, 530, 23g 
+Lunch,Cheese Trio Protein Box, 520, 40g
+Lunch,Cheddar & Uncured Salami Protein Box, 470, 14g
+Lunch,Eggs & Cheddar Protein Box, 460, 21g
+Lunch,Cheese & Fruit Protein Box, 470, 17g
+Treats,Birthday Cake Pop, 160, 16g
+Treats,Chocolate Cake Pop, 150, 16g
+Treats,Cookies & Cream Cake Pop, 140, 15g
+Treats,Chocolate Chip Cookie, 370, 31g
+Treats,Double Chocolate Brownie, 480, 37g
