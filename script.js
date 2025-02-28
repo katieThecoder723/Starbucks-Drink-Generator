@@ -5,7 +5,7 @@ const drink_category = document.getElementById('drink_category')
 const drink_info = document.getElementById('info')
 const nutrition_table = document.createElement("table");
 nutrition_table.border = "1";
-const nutrition_keys = ["Beverage_prep", "Caffeine (mg)", "Calories", "Sugars (g)"]
+const nutrition_keys = ["Calories", "Sugars (g)","Caffeine (mg)"]
 
 const showcase_drinks = [
     "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190528_JavaChipFrapp.jpg?impolicy=1by1_wide_topcrop_630",
@@ -38,7 +38,7 @@ function changeImage() {
 let IntervalId = setInterval(changeImage, 2000);
 
 function Generate_Drink(){
-    fetch("https://coderlab.work/api/v1/starbucks", {method: 'POST', body: JSON.stringify({drink_category: document.getElementById('Category_Dropdown').value})})
+    fetch("https://coderlab.work/api/v1/starbucks", {method: 'POST',headers: {'Content-Type': 'application/json'}, body: JSON.stringify({drink_category: document.getElementById('Category_Dropdown').value})})
         .then(response => {
             if(!response.ok) {
             throw new Error('HTTP error! Status:${response, status}');
@@ -48,12 +48,12 @@ function Generate_Drink(){
         .then(data  => {
             clearInterval(IntervalId)
             console.log(data);
-            drink_name.innerText = data["drink"]["Beverage"]
-            drink_category.innerText = data["drink"]["Beverage_category"]
+            drink_name.innerText = data["drink"]["Name"]
+            drink_category.innerText = data["drink"]["Category"]
             //drink_info.innerText = data["drink"][""]
             img.src = data["image"]
             nutrition_table.innerHTML = "";
-            for (let i = 0; i < 4; i++) {
+            for (let i = 0; i < 3; i++) {
                 const row = document.createElement("tr");
                 for (let j = 0; j < 2; j++) {
                     const cell = document.createElement("td");
