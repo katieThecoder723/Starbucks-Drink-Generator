@@ -42,6 +42,8 @@ function Generate_Drink(){
     if (cat === null){
         cat = ""
     }
+    $('#drink_image').hide()
+    $('#loading').show()
     fetch("https://coderlab.work/api/v1/starbucks", {method: 'POST',headers: {'Content-Type': 'application/json'}, body: JSON.stringify({drink_category: cat})})
         .then(response => {
             if(!response.ok) {
@@ -73,7 +75,8 @@ function Generate_Drink(){
             }
             drink_info.innerHTML = "";
             drink_info.appendChild(nutrition_table)
-
+            $('#loading').hide()
+            $('#drink_image').show()
         })
         .catch(error => {
             console.error('Error', error);
