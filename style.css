@@ -170,6 +170,15 @@ p{
   #Category_Dropdown {
     width: 250px;
   }
+
   html {
     height: 100vh;
   }
+
+#drink_name{
+    text-align: center;
+}
+
+#drink_category{
+    text-align: center;
+}

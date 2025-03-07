@@ -38,7 +38,11 @@ function changeImage() {
 let IntervalId = setInterval(changeImage, 2000);
 
 function Generate_Drink(){
-    fetch("https://coderlab.work/api/v1/starbucks", {method: 'POST',headers: {'Content-Type': 'application/json'}, body: JSON.stringify({drink_category: document.getElementById('Category_Dropdown').value})})
+    let cat = document.getElementById('Category_Dropdown').value
+    if (cat === null){
+        cat = ""
+    }
+    fetch("https://coderlab.work/api/v1/starbucks", {method: 'POST',headers: {'Content-Type': 'application/json'}, body: JSON.stringify({drink_category: cat})})
         .then(response => {
             if(!response.ok) {
             throw new Error('HTTP error! Status:${response, status}');
