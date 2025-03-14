@@ -58,8 +58,9 @@ function Generate_Drink(){
             drink_category.innerText = data["drink"]["Category"]
             //drink_info.innerText = data["drink"][""]
             img.src = data["image"]
-            if (data[image] === null || data["image"]===""){
+            if (data["image"] === null || data["image"]===""){
                 Generate_Drink()
+                return;
             }
             nutrition_table.innerHTML = "";
             for (let i = 0; i < 3; i++) {
